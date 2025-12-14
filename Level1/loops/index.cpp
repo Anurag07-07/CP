@@ -26,8 +26,17 @@ int main(int argc, char const *argv[])
   // cout<<INT_MAX<<" ";
   // cout<<INT_MIN<<" ";
   
-  double a;cin>>a;
-  cout<<fixed<<setprecision(5)<<a;
+  // double a;cin>>a;
+  // cout<<fixed<<setprecision(5)<<a;
 
+  // long double a = 45545121;
+  // cout<<a<<endl;
+  // cout<<(int)a;
+
+  //Fast io
+  ios::sync_with_stdio(false);
+  cin.tie(NULL);
+  cout<<'\n';
+  cout<<"Something";
   return 0;
 }
