@@ -1,0 +1,1 @@
+{"name":"Local: FloatorInt","url":"d:\\CP\\DSA\\CP\\Level1\\FloatorInt.cpp","tests":[{"id":1765715168992,"input":"234.000\n","output":"int 234\n"},{"id":1765715177985,"input":"534.958\n","output":"float 534 0.958\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\DSA\\CP\\Level1\\FloatorInt.cpp","group":"local","local":true}
